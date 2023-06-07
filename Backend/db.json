@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Arpita",
+      "salary": "60000",
+      "company": "google",
+      "id": 1
+    },
+    {
+      "name": "lina ",
+      "salary": "55000",
+      "company": "tcs",
+      "id": 2
+    },
+    {
+      "name": "arpita",
+      "salary": "78900",
+      "company": "thd",
+      "id": 3
+    },
+    {
+      "name": "rocky",
+      "salary": "456789",
+      "company": "tcs",
+      "id": 5
+    },
+    {
+      "name": "subha",
+      "salary": "356788",
+      "company": "tcs",
+      "id": 6
+    }
+  ]
+}
